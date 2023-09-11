@@ -1,6 +1,6 @@
 let btnsEl = document.querySelectorAll(".btn");
 let screenEl = document.querySelector(".result-screen");
-const equalBtnEl = document.querySelector(".btn-equal");
+let equalBtnEl = document.querySelector(".btn-equal");
 const clearBtnEl = document.querySelector(".btn-clear");
 
 btnsEl.forEach((item) => {
