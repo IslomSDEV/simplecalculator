@@ -1,5 +1,5 @@
-let btnsEl = document.querySelectorAll(".btn");
-let screenEl = document.querySelector(".result-screen");
+const btnsEl = document.querySelectorAll(".btn");
+const screenEl = document.querySelector(".result-screen");
 const equalBtnEl = document.querySelector(".btn-equal");
 const clearBtnEl = document.querySelector(".btn-clear");
 
